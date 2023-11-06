@@ -21,13 +21,13 @@ const config = {
   /**
    * This sets the title in the sidebar and the <title> tag of the app
    */
-  title: 'Air Pollution Trends 1998-2020 in Africa',
+  title: 'Air Pollution Trends 1998-2020 in Urban Areas of Africa',
   /**
    * This sets the description in the sidebar
    */
   description:
     'This map shows the average PM 2.5 level of all urban areas when loaded for the first time, and changes to the trend for a specific city when you click on that city on the map. \
-    Each city is representy by a circle labeled by its population density. Select a city to visualize historical data.',
+    Each city is represented by a circle labeled by its population density in 2015. Select a city to visualize historical data.',
   /**
    * Data fields to chart from the source data
    */
